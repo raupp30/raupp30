@@ -31,11 +31,6 @@ Here on GitHub you can see my projects and activities from my college classes!
 </a> <a href="https://www.linkedin.com/in/raupp30/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 ### Badges
 
-<b>My GitHub Stats</b>
-
-
-
-<a href="https://github.com/Felipedarosaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipedarosaa&langs_count=10&title_color=ffffff&text_color=000000&icon_color=a855f7&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
