@@ -1,10 +1,10 @@
-Hi 👋 My name is João Vitor Raupp!
+👋 Hi, welcome to my profile!
 ===============================
 
-Aqui no GitHub você verá toda a minha trajetória ao longo do meu tempo de programação, espero que gostem. :)
+Here on GitHub you can see my projects and activities from my college classes!
 
 * 🌍  Live in Três Cachoeiras, RS/BR
-* 🖥️  Look my Linkedin profile [Linkedin](http://https://www.linkedin.com/raupp30/)
+* 🖥️  Look my Linkedin profile [Linkedin](https://www.linkedin.com/in/raupp30/)
 * ✉️  Contact [joaovraupp@rede.ulbra.br](mailto:joaovraupp@rede.ulbra.br)
 
 ### Skills
@@ -22,7 +22,13 @@ Aqui no GitHub você verá toda a minha trajetória ao longo do meu tempo de pro
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/raupp30" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/raupp30" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/raupp30/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+
+<a href="https://www.github.com/raupp30" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+
+</a> <a href="http://www.instagram.com/raupp30" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+
+</a> <a href="https://www.linkedin.com/in/raupp30/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
