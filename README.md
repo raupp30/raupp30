@@ -1,13 +1,13 @@
-👋 Hi, welcome to my profile!
+👋 ʜɪ, ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴘʀᴏғɪʟᴇ!
 ===============================
 
-Here on GitHub you can see my projects and activities from my college classes!
+ʜᴇʀᴇ ᴏɴ ɢɪᴛʜᴜʙ ʏᴏᴜ ᴄᴀɴ sᴇᴇ ᴍʏ ᴘʀᴏᴊᴇᴄᴛs ᴀɴᴅ ᴀᴄᴛɪᴠɪᴛɪᴇs ғʀᴏᴍ ᴍʏ ᴄᴏʟʟᴇɢᴇ ᴄʟᴀssᴇs!
 
-* 🌍  Live in Três Cachoeiras, RS/BR
-* 🖥️  Look my Linkedin profile [Linkedin](https://www.linkedin.com/in/raupp30/)
-* ✉️  Contact [joaovraupp@rede.ulbra.br](mailto:joaovraupp@rede.ulbra.br)
+* 🌍  ʟɪᴠᴇ ɪɴ ᴛʀᴇs ᴄᴀᴄʜᴏᴇɪʀᴀs, ʀs/ʙʀ.
+* 🖥️  ʟᴏᴏᴋ ᴍʏ ʟɪɴᴋᴇᴅɪɴ ᴘʀᴏғɪʟᴇ [Linkedin](https://www.linkedin.com/in/raupp30/)
+* ✉️  ᴄᴏɴᴛᴀᴄᴛ [joaovraupp@rede.ulbra.br](mailto:joaovraupp@rede.ulbra.br)
 
-### Skills
+### sᴋɪʟʟs
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
