@@ -19,7 +19,7 @@
 
 </p>
 
-### Socials
+### sᴏᴄɪᴀʟs
 
 <p align="left">
 
