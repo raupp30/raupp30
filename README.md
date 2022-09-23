@@ -29,4 +29,4 @@ Here on GitHub you can see my projects and activities from my college classes!
 
 </a> <a href="https://www.linkedin.com/in/raupp30/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"></div>
