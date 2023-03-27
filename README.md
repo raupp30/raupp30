@@ -1,12 +1,32 @@
-👋 𝘖𝘭𝘢, 𝘴𝘦𝘫𝘢 𝘣𝘦𝘮 𝘷𝘪𝘯𝘥𝘰 𝘢𝘰 𝘮𝘦𝘶 𝘱𝘦𝘳𝘧𝘪𝘭 𝘯𝘰 𝘎𝘪𝘵𝘏𝘶𝘣
 
-===============================
+Ola, 👋 Meu nome é João Vitor Raupp.
+===================================
 
-𝘈𝘲𝘶𝘪 𝘷𝘰𝘤ê 𝘱𝘰𝘥𝘦 𝘷𝘦𝘳 𝘮𝘦𝘶𝘴 𝘱𝘳𝘰𝘫𝘦𝘵𝘰𝘴 𝘱𝘦𝘴𝘴𝘰𝘢𝘪𝘴 𝘦 𝘱𝘳𝘰𝘫𝘦𝘵𝘰𝘴 𝘥𝘦𝘴𝘦𝘯𝘷𝘰𝘭𝘷𝘪𝘥𝘰𝘴 𝘯𝘰 𝘮𝘦𝘶 𝘤𝘶𝘳𝘴𝘰 𝘴𝘶𝘱𝘦𝘳𝘪𝘰𝘳.
+Web Developer | Software Developer
+
+* 🌍  Residente em Três Cachoeiras / RS.
+* ✉️  Entre em contato comigo: [endriwmsi@gmail.com](mailto:joaovraupp@rede.ulbra.br)
+* 🧠  Estudando atualmente | C# | SQL | PHP w/ Laravel |  
+
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+</p>
+
+### Socials
+
+  <a href="http://www.instagram.com/raupp30" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/raupp30" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 
-* 🌍 𝘙𝘦𝘴𝘪𝘥𝘦𝘯𝘵𝘦 𝘥𝘦 𝘛𝘳ê𝘴 𝘊𝘢𝘤𝘩𝘰𝘦𝘪𝘳𝘢𝘴 𝘙𝘚/𝘉𝘙
-* 🖥️  𝘝𝘦𝘫𝘢 𝘮𝘦𝘶 𝘱𝘦𝘳𝘧𝘪𝘭 𝘯𝘰 (https://www.linkedin.com/in/raupp30/)
-* ✉️  𝘊𝘰𝘯𝘵𝘢𝘵𝘰 [joaovraupp@rede.ulbra.br](mailto:joaovraupp@rede.ulbra.br)
-* 📚  𝘊𝘶𝘳𝘳𝘪𝘤𝘶𝘭𝘰 
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/raupp30"><img src="https://github-readme-stats.vercel.app/api?username=raupp30&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="raupp30's GitHub stats" /></a>
+
+<a href="http://www.github.com/raupp30"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raupp30&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
