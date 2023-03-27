@@ -5,8 +5,8 @@ Ola, 👋 Meu nome é João Vitor Raupp.
 Web Developer | Software Developer
 
 * 🌍  Residente em Três Cachoeiras / RS.
-* ✉️  Entre em contato comigo: [endriwmsi@gmail.com](mailto:joaovraupp@rede.ulbra.br)
-* 🧠  Estudando atualmente | C# | SQL | PHP w/ Laravel |  
+* ✉️  Entre em contato comigo: [joaovraupp@rede.ulbra.br](mailto:joaovraupp@rede.ulbra.br)
+* 🧠  Estudando atualmente C# | SQL | PHP w/ Laravel   
 
 ### Skills
 
