@@ -1,5 +1,5 @@
 
-Ola, 👋 Meu nome é João Vitor Raupp.
+👋 Ola, meu nome é João Vitor Raupp
 ===================================
 
 Web Developer | Software Developer
