@@ -6,7 +6,7 @@ Web Developer | Software Developer
 
 * 🌍  Residente em Três Cachoeiras / RS.
 * ✉️  Entre em contato comigo: [joaovraupp@rede.ulbra.br](mailto:joaovraupp@rede.ulbra.br)
-* 🧠  Estudando atualmente C# | SQL | PHP w/ Laravel   
+* 🧠  Estudando atualmente C# | SQL | PHP w/ Laravel | Java  
 
 ### Skills
 
