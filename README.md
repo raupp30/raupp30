@@ -6,7 +6,7 @@
 
 
 * 🌍 𝘙𝘦𝘴𝘪𝘥𝘦𝘯𝘵𝘦 𝘥𝘦 𝘛𝘳ê𝘴 𝘊𝘢𝘤𝘩𝘰𝘦𝘪𝘳𝘢𝘴 𝘙𝘚/𝘉𝘙
-* 🖥️  𝘝𝘦𝘫𝘢 𝘮𝘦𝘶 𝘱𝘦𝘳𝘧𝘪𝘭 𝘯𝘰 𝘓𝘪𝘯𝘬𝘦𝘥𝘪𝘯 [Linkedin](https://www.linkedin.com/in/raupp30/)
-* ✉️  𝘊𝘰𝘯𝘵𝘢𝘵𝘰 [E-mail][joaovraupp@rede.ulbra.br](mailto:joaovraupp@rede.ulbra.br)
+* 🖥️  𝘝𝘦𝘫𝘢 𝘮𝘦𝘶 𝘱𝘦𝘳𝘧𝘪𝘭 𝘯𝘰 (https://www.linkedin.com/in/raupp30/)
+* ✉️  𝘊𝘰𝘯𝘵𝘢𝘵𝘰 [joaovraupp@rede.ulbra.br](mailto:joaovraupp@rede.ulbra.br)
 * 📚  𝘊𝘶𝘳𝘳𝘪𝘤𝘶𝘭𝘰 
 
