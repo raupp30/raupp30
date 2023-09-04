@@ -1,8 +1,8 @@
 
-👋 Ola, meu nome é João Vitor Raupp
+👋 Olá, meu nome é João Vitor.
 ===================================
 
-* 🌍  Residente em Três Cachoeiras / RS.
+* 🌍  Residente de Três Cachoeiras / RS.
 * ✉️  Entre em contato comigo: [joaovraupp@rede.ulbra.br](mailto:joaovraupp@rede.ulbra.br)
 * 🧠  Estudando atualmente C# | SQL | PHP w/ Laravel | Java  
 
