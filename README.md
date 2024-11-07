@@ -1,4 +1,4 @@
-### Olá, sou João Vitor Raupp 👋
+- Olá, rede! Sou João Vitor Raupp 👋🏻
 
 - Boas vindas ao meu GitHub! <br>
 - Aqui você vai conhecer meus projetos desenvolvidos durante minha formação acadêmica.
