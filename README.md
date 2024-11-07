@@ -1,8 +1,10 @@
+### Olá, sou João Vitor Raupp 👋
 
-👋 Olá, meu nome é João Vitor.
-===================================
+Boas vindas ao meu GitHub! <br>
+Aqui você vai conhecer meus projetos desenvolvidos durante minha formação acadêmica.
 
-### About
-* 🌍  Residente de Três Cachoeiras / RS.
-* ✉️  Entre em contato comigo: [joaovraupp01@gmail.com](mailto:joaovraupp01@gmail.com).
-* 🧠  Análise e Desenvolvimento de Sistemas 6/7.
+- 💻 Análise e Desenvolvimento de Sistemas.
+- ✉️  joaovraupp01@gmail.com
+
+## 📫 Social Link
+  <a href="https://www.linkedin.com/in/raupp30/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
